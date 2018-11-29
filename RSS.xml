@@ -1,0 +1,39 @@
+<rss version="2.0">
+
+<!-- Se define el canal -->
+
+<channel>
+<title>Ejemplo de RSS</title>
+    
+<link> http://alexitomuchamarcha.hithub.io</link>
+    
+<description>
+Este es un ejemplo de web basada en la sindicacion de contenidos
+</description>
+    
+<language>es</language>
+    
+<!-- Se definen los distintos items del canal -->
+<item>
+<title>El tiempo meterológico</title>
+    
+<link>https://weather.com/es-ES/tiempo/hoy/l/40.49,-3.35?par=google</link>
+    
+<description>
+Este es un ejemplo de RSS con el tiempo metereologico
+</description>
+    
+</item>
+<item>
+    
+<title>Noticias</title>
+    
+<link>https://elpais.com/economia/2018/11/28/actualidad/1543433047_114115.html</link>
+    
+<description>
+Aqui hay un ejemplo de noticias
+</description>
+    
+</item>
+</channel>
+</rss>
