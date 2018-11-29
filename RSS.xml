@@ -3,35 +3,37 @@
 <!-- Se define el canal -->
 
 <channel>
-<title>Ejemplo de RSS</title>
-    
+<title>Contenido y noticias RSS</title>
+ 
+<!-- Este <link> sirve para enlazar nuestro RSS con el servidor en el que está-->
+
 <link> http://alexito2404.hithub.io</link>
     
 <description>
-Este es un ejemplo de web basada en la sindicacion de contenidos
+Contenido directo y personalizado RSS
 </description>
     
 <language>es</language>
     
-<!-- Se definen los distintos items del canal -->
+<!-- Se definen los distintos items del canal los cuales nos serviran para -->
 <item>
 <title>El tiempo meterológico</title>
     
 <link>https://weather.com/es-ES/tiempo/hoy/l/40.49,-3.35?par=google</link>
     
 <description>
-Este es un ejemplo de RSS con el tiempo metereologico
+Ir a tiempo meteorológico actualizado
 </description>
     
 </item>
 <item>
     
-<title>Noticias</title>
+<title>Noticias EL PAIS</title>
     
 <link>https://elpais.com/economia/2018/11/28/actualidad/1543433047_114115.html</link>
     
 <description>
-Aqui hay un ejemplo de noticias
+Ir a noticias actuales
 </description>
     
 </item>
